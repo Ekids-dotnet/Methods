@@ -1,0 +1,15 @@
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/bin/Debug/net8.0/Methods
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/bin/Debug/net8.0/Methods.dll
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/Methods.sourcelink.json
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/Methods.dll
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/Users/Ihor_Stuzhuk/RiderProjects/eKids_Dotnet/Methods/obj/Debug/net8.0/ref/Methods.dll
